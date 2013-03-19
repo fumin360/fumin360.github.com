@@ -1,0 +1,16 @@
+﻿	
+/*pagination*/
+.fm-pagination{text-align:right; padding:5px;}
+	.fm-pagination a, .fm-pagination a:visited{padding:0px 5px; margin-right:5px; color:gray;}
+	.fm-pagination a.num{border:1px solid #d5d5d5;}
+	.fm-pagination a.num:hover, .fm-pagination a.num.active{background-color:#f05436; color:white;}
+	 
+	
+	
+
+	
+
+
+
+	
+	
